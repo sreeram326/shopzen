@@ -31,7 +31,7 @@ export default function App() {
       <CartProvider>
         <div style={S.root}>
           {/* Floating background text */}
-          <div style={S.floatingBg}>ShopZen</div>
+          <div style={S.floatingBg}>🙌ShopZen🙌</div>
 
           {/* Main content */}
           <div style={S.contentWrapper}>
